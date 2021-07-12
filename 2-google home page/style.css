@@ -3,3 +3,11 @@
     display: flex;
     background-color: brown;
 }
+
+#header{
+    display: flex;
+}
+
+#footer{
+    display: flex;
+}
