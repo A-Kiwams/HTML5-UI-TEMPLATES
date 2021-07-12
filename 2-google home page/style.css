@@ -1,1 +1,5 @@
 /*style sheet*/
+#container{
+    display: flex;
+    background-color: brown;
+}
