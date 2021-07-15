@@ -12,12 +12,14 @@ body{
     display: flex;
     background-color: yellowgreen;
     flex-direction: row;
+    justify-content: center;
+    height: 100%;
 }
 
 #header{
-    display: flex;
+    
 }
 
 #footer{
-    display: flex;
+
 }
