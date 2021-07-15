@@ -10,8 +10,8 @@ body{
 }
 #container{
     display: flex;
-    background-color: brown;
-    
+    background-color: yellowgreen;
+    flex-direction: row;
 }
 
 #header{
