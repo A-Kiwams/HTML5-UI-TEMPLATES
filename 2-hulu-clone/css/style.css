@@ -5,3 +5,21 @@
   margin: 0;
   padding: 0;
 }
+
+html,
+body {
+  font-family: 'Rubik', sans-serif;
+  background: #000;
+  color: #fff;
+  line-height: 1.7;
+  overflow-x: hidden;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ccc;
+}
