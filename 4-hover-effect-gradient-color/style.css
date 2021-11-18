@@ -32,5 +32,9 @@
      top: 0;
      left: 0;
      background-repeat: no-repeat;
-     background-size: 100% 100%;
+     background-size: 400% 400%;
+     transition: 2s;
+}
+.container:hover .inner-container{
+    background-position: 100% 100%;
 }
