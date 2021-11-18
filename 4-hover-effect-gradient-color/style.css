@@ -28,4 +28,9 @@
      rgba(0,23,149,0.6)50%,
      rgba(255,0,0,0.6)75%, 
      rgba(0,23,149,0.6)100%);
+     position: absolute;
+     top: 0;
+     left: 0;
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
 }
